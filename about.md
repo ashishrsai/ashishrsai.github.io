@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/photo.jpeg" caption="Ashish." width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+This is my academic website, where you can find information on my current research and the classes that I teach. I am a doctoral researcher and instructor in the Department of Computer Science and Information Systems at the University of Limerick and a Visiting Researcher at the University of California, Berkeley.
 
+I use machine learning and big data to understand different attack vectors in computing systems such as Blockchains. This puts my research and teaching interests at the broad intersection of machine learning and cybersecurity. My research output has appeared in peer-reviewed journals like Computers & Security. Most of my research is funded by the Irish Software Research Centre via the Science Foundation of Ireland.
