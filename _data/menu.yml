@@ -7,10 +7,10 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "Teaching"
+  href: "/teaching/"
   subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
+    - subtitle: "CS4337"
+      subhref: "/CS4337-Web"
     - subtitle: "Item 2"
       subhref: "/miscellany/item-2/"
